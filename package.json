@@ -1,0 +1,11 @@
+{
+  "name": "imgbb",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "repository": "https://github.com/paulloclara/imgbb.git",
+  "author": "paulloclara <paulloclara@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
